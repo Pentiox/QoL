@@ -1,2 +1,2 @@
-# qol
-The Quests of Life Deserve Better Than a To-Do List App
+# The Quests of Life
+...deserve better than a to-do list app.
